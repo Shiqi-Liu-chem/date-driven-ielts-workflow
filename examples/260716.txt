@@ -1,0 +1,46 @@
+原始词汇
+==========
+1	量化投资
+2	风险对冲
+3	资产配置
+4	波动率
+5	因子模型
+6	回撤控制
+7	超额收益
+8	市场流动性
+
+单词翻译
+==========
+量化投资	quantitative investing
+风险对冲	risk hedging
+资产配置	asset allocation
+波动率	volatility
+因子模型	factor model
+回撤控制	drawdown control
+超额收益	excess return / alpha
+市场流动性	market liquidity
+
+英文背诵段落
+==========
+Quantitative investing has fundamentally reshaped modern finance by employing mathematical models to identify mispriced securities, a practice that relies heavily on sophisticated factor models to decompose sources of excess return. While traditional investors focus on stock-picking intuition, quantitative funds systematically construct portfolios through rigorous asset allocation frameworks, ensuring that market liquidity and volatility are carefully factored into every position. One of the most critical aspects of quantitative strategies is drawdown control — the ability to limit losses during market downturns through dynamic risk hedging, which often involves derivatives and inverse correlations. Although critics argue that algorithmic trading may exacerbate market volatility during flash crashes, proponents maintain that well-designed factor models contribute to price discovery and market efficiency. In essence, the interplay between risk hedging, asset allocation, and drawdown control determines whether a quantitative fund can deliver sustainable excess return over the long term, making it a compelling yet complex approach to investment management.
+
+中文对照
+==========
+量化投资通过运用数学模型来识别错误定价的证券，从根本上重塑了现代金融业，这种做法在很大程度上依赖于复杂的因子模型来分解超额收益的来源。传统投资者侧重于选股的直觉，而量化基金则通过严格的资产配置框架系统地构建投资组合，确保市场流动性和波动率被谨慎地纳入每一笔持仓的考量。量化策略最关键的一个方面是回撤控制——即通过动态风险对冲在市场下行期间限制损失的能力，这通常涉及衍生品和反向相关性。尽管批评者认为算法交易可能在闪崩期间加剧市场波动，但支持者坚持认为精心设计的因子模型有助于价格发现和市场效率。从本质上讲，风险对冲、资产配置和回撤控制之间的相互作用决定了一只量化基金能否长期提供可持续的超额收益，使其成为一种引人注目但又复杂的投资管理方法。
+
+重点短语
+==========
+quantitative investing — 量化投资
+fundamentally reshaped — 从根本上重塑
+mispriced securities — 错误定价的证券
+decompose sources of excess return — 分解超额收益的来源
+rigorous asset allocation — 严格的资产配置
+market liquidity and volatility — 市场流动性和波动率
+drawdown control — 回撤控制
+dynamic risk hedging — 动态风险对冲
+flash crashes — 闪崩
+price discovery — 价格发现
+market efficiency — 市场效率
+sustainable excess return — 可持续的超额收益
+a compelling yet complex approach — 引人注目但又复杂的方法
+investment management — 投资管理
